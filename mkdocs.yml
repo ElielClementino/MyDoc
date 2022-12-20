@@ -1,0 +1,17 @@
+site_name: My Docs
+theme:
+  font:
+    code: Roboto Mono
+  name: material
+  palette:
+  # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/lightbulb
+      name: Mudar para dark mode
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/lightbulb-outline
+      name: Mudar para light mode
