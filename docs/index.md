@@ -1,7 +1,6 @@
 # Eliel Clementino da Silva
 
 ** Solteiro - 20 anos **  
-** Endereço: Rua George Eastman, 651 - Conjunto Residencial 31 de Março - São José dos Campos **
 ** contato: (21) 99895-3462 - elielclementinodasilva@gmail.com **
 
 ## Sobre:
@@ -12,11 +11,13 @@ Me chamo Eliel, nasci no Rio de Janeiro, e me interessei por tecnologia desde ce
 
 Planejo me aprofundar mais em backend, me aprofundar mais na arquitetura do python, e na integração de front + back, e aprender mais da área de DevOps.
 
-### Compêtencias:
-1. HTML
-2. CSS
-3. JS
-4. PYTHON
-5. DJANGO
-6. DOCKER
-7. GIT
+### Compêtencias e alguns projetos:
+| HTML - CSS - JS || PYTHON - DJANGO - DOCKER - VUEJS | 
+|--------|--------||
+|[Página Pessoal](https://github.com/ElielClementino/D9_minha_pagina_pessoal) || [Github Vuewer](https://github.com/ElielClementino/github_vuewer) |
+|[Password Generator](https://github.com/ElielClementino/PasswordGenerator) || [Dolceria](https://github.com/ElielClementino/Dolceria) |
+|[Wordle](https://github.com/ElielClementino/WordleJs) || [Secure Password](https://github.com/ElielClementino/SecurePassword) |
+|[Crud](https://github.com/ElielClementino/CrudJsPuro) || [Crud Vue](https://github.com/ElielClementino/TodoVuetifyComponents) |
+|[Planilha_Nutricional](https://github.com/ElielClementino/Planilha_Nutricional) ||  |
+|[Moving Circle](https://github.com/ElielClementino/Moving_Circle) || |
+
